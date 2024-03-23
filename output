@@ -1,0 +1,7 @@
+Enter your username: user
+Enter your password: user
+Authentication successful!
+
+Enter your username: incorrect_username
+Enter your password: incorrect_password
+Authentication failed
